@@ -14,7 +14,6 @@ export default function Quiz() {
 
   return (
     <div id="question">
-      <h3>this is git testing</h3>
       <h2>{QUESTIONS[activeQuestionIndex].text}</h2>
 
       <ul id="answers">
